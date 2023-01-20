@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="381d6e14-d841-4506-9feb-ffc79f547e5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/box-model.html" afterDir="false" />
+    <list default="true" id="381d6e14-d841-4506-9feb-ffc79f547e5d" name="Changes" comment="3 хвилина">
+      <change afterPath="$PROJECT_DIR$/demo1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/box-model.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/box-model.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KYs4sOJwmiC6mGlOxJXhcHjCXH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,9 +48,16 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Оля\IdeaProjects\dec-2022-html\lesson2\demo1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,11 +66,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674162669466</updated>
-      <workItem from="1674162669848" duration="2298000" />
+      <workItem from="1674162669848" duration="36271000" />
     </task>
+    <task id="LOCAL-00001" summary="3 хвилина">
+      <created>1674165498069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674165498069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 хвилина" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 хвилина" />
   </component>
 </project>

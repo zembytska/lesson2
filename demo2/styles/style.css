@@ -1,0 +1,34 @@
+.wrap {
+    height: 200px;
+    width: 800px;
+    background: blue;
+    box-sizing: border-box;
+    padding: 10px 20px 30px 10px;
+    margin:10px 350px 10px 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    margin: 0;
+    justify-content: center;
+}
+
+.father {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    margin: 100px 50px 100px 60px;
+    justify-content: center;
+
+}
+.box {
+    background: blueviolet;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px 10px 10px;}
+
