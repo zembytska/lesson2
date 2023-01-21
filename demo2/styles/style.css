@@ -1,5 +1,5 @@
 .wrap {
-    height: 200px;
+    height: 150px;
     width: 800px;
     background: blue;
     box-sizing: border-box;
@@ -13,22 +13,46 @@
 h2 {
     margin: 0;
     justify-content: center;
+    align-items: center;
 }
 
 .father {
+
     display: flex;
-    justify-content: center;
     align-items: center;
+    padding: 1px 5px 1px 30px;
+    margin: 10px 340px 10px 310px;
 }
 
-h2 {
-    margin: 100px 50px 100px 60px;
-    justify-content: center;
-
-}
 .box {
+    height: 200px;
+    width: 490px;
     background: blueviolet;
+    box-sizing: border-box;
+    margin: 1px 10px 1px 10px;
+    padding: 10x 10px 1px 10px;
+    align-items: center;
+    justify-content: center;
+}
+h2{
     justify-content: center;
     align-items: center;
-    margin: 10px 10px 10px 10px;}
+    padding: 60px 20px 20px 40px;
+    color: azure;
+}
+.target{
+    height: 400px;
+    width: 800px;
+    background: blue;
+    box-sizing: border-box;
+    padding: 10px 20px 30px 10px;
+    margin: 1px 350px 10px 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{ margin: 0;
+    justify-content: center;
+    align-items: center;}
+
 
